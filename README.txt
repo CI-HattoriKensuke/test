@@ -9,3 +9,5 @@ Hello!
 ほげほげ！
 
 hugahuga
+
+add k.harada_test
